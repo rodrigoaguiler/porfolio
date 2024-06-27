@@ -1,0 +1,10 @@
+//TAB RACIONAL
+//IMPLEMENTACION DE LAS OPERACIIONES 
+//
+#include "RACIONAL.h"
+RACIONAL crear(void){
+	
+}
+RACIONAL sumar(RACI
+
+
